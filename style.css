@@ -2,7 +2,7 @@
     height: 250px;
     width:250px;
     margin:auto;
-    margin-top:15% ;
+    margin-top:150px ;
     background-color: rgb(253, 148, 153);
     border-radius: 50%;
     border:1px solid black;
@@ -22,7 +22,7 @@
     margin-top: 50px;
     margin-right:0px;
 }
-.reye{
+ .reye{
     height:60px;
     width:60px;
     background-color: white;
@@ -43,14 +43,14 @@
     border-radius: 50%;
     margin-top: 65px;
     margin-right:50px;
-}
+} 
 .reball{
     height:30px;
     width:30px;
     background-color: black;
     border-radius: 50%;
     margin-top: 65px;
-}
+} 
 .mouth{
     height: 60px;
     width:100px;
@@ -85,32 +85,30 @@
     margin-top:13px;
     
 }
-.head{
-    display: flex;
-    justify-content: space-evenly;
-    position: absolute;
 
 
-}
 .head1{
-    height:100px;
-    width:90px;
-    border-top-left-radius:50px;
-    border-top-right-radius: 50px;
-    background-color:rgb(253, 148, 153);
-    margin-left:510px;
-    margin-top:-25px;
-    border:1px solid black;
-
+width: 34%;
+    height: 34%;
+    background-color: rgb(253, 148, 153);
+    border-radius: 100px 100px 0 0;
+    position: absolute;
+    margin-top: -87%;
+    margin-left: 8%;
+    z-index: -1;
+    border: 1px solid black;
+    
 }
 .head2{
-    height:100px;
-    width:90px;
-    border-top-left-radius:50px;
-    border-top-right-radius: 50px;
-    background-color:rgb(253, 148, 153);
-    margin-top:-25px;
-    margin-left:10px;
-    border:1px solid black;
-
+    width: 34%;
+    height: 34%;
+    background-color: rgb(253, 148, 153);
+    border-radius: 100px 100px 0 0;
+    position: absolute;
+    margin-top: -89%;
+    margin-left: 57%;
+    z-index: -1;
+    border: 1px solid black;
+    
+    
 }
