@@ -85,16 +85,23 @@
     margin-top:13px;
     
 }
+.head{
+    display: flex;
+    justify-content: space-evenly;
+    position: absolute;
+
+
+}
 .head1{
     height:100px;
     width:90px;
     border-top-left-radius:50px;
     border-top-right-radius: 50px;
     background-color:rgb(253, 148, 153);
-    margin-left:525px;
-    margin-top:-20px;
+    margin-left:510px;
+    margin-top:-25px;
     border:1px solid black;
-    position:absolute;
+
 }
 .head2{
     height:100px;
@@ -102,8 +109,8 @@
     border-top-left-radius:50px;
     border-top-right-radius: 50px;
     background-color:rgb(253, 148, 153);
-    margin-top:-20px;
-    margin-left:640px;
+    margin-top:-25px;
+    margin-left:10px;
     border:1px solid black;
-    position: absolute;
+
 }
